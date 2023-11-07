@@ -45,6 +45,9 @@
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
 
+- git clone  https://github.com/kkmanuu/hello-rails-back-end
+- git clone  https://github.com/kkmanuu/hello-react-front-end
+
 To get a local copy up and running, follow these steps.
 
 ### Setup
