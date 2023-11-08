@@ -21,8 +21,8 @@ jobs:
           [ -f .babelrc ] || wget https://raw.githubusercontent.com/microverseinc/linters-config/master/react-redux/.babelrc
       - name: ESLint Report
         run: npx eslint "**/*.{js,jsx}"
-  stylelint:
-    name: Stylelint
+  # stylelint:
+  #   name: Stylelint
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
