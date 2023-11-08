@@ -1,13 +1,13 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchGreetings } from '../redux/greetingSlice'; // Corrected import
+import { fetchGreetings } from '../redux/greetingSlice';
 
 const Greeting = () => {
   const dispatch = useDispatch();
   const { greeting, loading } = useSelector((store) => store.greeting);
 
   useEffect(() => {
-    dispatch(fetchGreetings()); // Corrected action name
+    dispatch(fetchGreetings());
   }, [dispatch]);
 
   if (loading) {
