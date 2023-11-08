@@ -84,6 +84,11 @@ it will install the required gemfile for running the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+🔭 Future Features
+
+ **Random Greetings:**  sytling the app
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
