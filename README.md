@@ -121,4 +121,4 @@ I would like to thank Microverse for including this in their curriculum.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>v
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
